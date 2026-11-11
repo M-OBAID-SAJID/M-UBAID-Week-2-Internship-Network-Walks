@@ -62,7 +62,6 @@ My goal is to strengthen my technical knowledge, develop practical cybersecurity
 | 📡 Zenmap | Network discovery and scanning |
 | 💻 Windows CMD | Network configuration |
 
-```
 
 ## 🚀 Skills Developed
 
@@ -72,6 +71,8 @@ My goal is to strengthen my technical knowledge, develop practical cybersecurity
 - 🔹 IP Address & MAC Address Identification
 - 🔹 Digital Footprint Analysis
 - 🔹 Security Documentation & Reporting
+
+
 
 
 
